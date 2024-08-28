@@ -4446,3 +4446,6 @@ td:last-child {
         right: -2rem;
     }
 }
+.contact-link{
+    color: hsla(12, 75%, 45%, 1);
+}
