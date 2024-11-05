@@ -1083,7 +1083,10 @@ textarea {
 .u-flexitem-y-bottom {
     align-self: flex-end;
 }
-
+.needaFreelancer{
+    color: var(--color-1);
+    
+}
 /* misc helper classes
  */
 .u-screen-reader-text {
