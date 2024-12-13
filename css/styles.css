@@ -3510,7 +3510,7 @@ td:last-child {
     display         : block;
     height          : 2px;
     width           : var(--hline-width);
-    background-color: white;
+    background-color: var(--color-1);
     position        : absolute;
     top             : calc(50% - 2px);
     left            : calc(var(--hline-width) * -1);
